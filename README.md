@@ -25,7 +25,7 @@ If you’re familiar with the **C# API documentation**, you’re already set—*
 ---
 
 ## 📦 Installation  
-1. Download the latest **GH_TSD** release from the [Releases](https://github.com/YOUR_REPO/releases) page.  
+1. Download the latest **GH_TSD** release from package Manager or main branch.  
 2. Drag & drop the `.gha` file into **Grasshopper**.  
 3. Start using **Tekla Structural Designer API** inside **Grasshopper!**  
 
