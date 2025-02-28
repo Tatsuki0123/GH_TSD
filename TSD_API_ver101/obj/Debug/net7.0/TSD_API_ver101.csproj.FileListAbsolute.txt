@@ -1,0 +1,73 @@
+C:\Users\socce_ihosdso\Documents\GH_plugin_development_learning\05May\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\TSD_API_ver101.deps.json
+C:\Users\socce_ihosdso\Documents\GH_plugin_development_learning\05May\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\TSD_API_ver101.gha
+C:\Users\socce_ihosdso\Documents\GH_plugin_development_learning\05May\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\TSD_API_ver101.pdb
+C:\Users\socce_ihosdso\Documents\GH_plugin_development_learning\05May\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.csproj.AssemblyReference.cache
+C:\Users\socce_ihosdso\Documents\GH_plugin_development_learning\05May\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\socce_ihosdso\Documents\GH_plugin_development_learning\05May\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.AssemblyInfoInputs.cache
+C:\Users\socce_ihosdso\Documents\GH_plugin_development_learning\05May\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.AssemblyInfo.cs
+C:\Users\socce_ihosdso\Documents\GH_plugin_development_learning\05May\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.csproj.CoreCompileInputs.cache
+C:\Users\socce_ihosdso\Documents\GH_plugin_development_learning\05May\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.gha
+C:\Users\socce_ihosdso\Documents\GH_plugin_development_learning\05May\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\refint\TSD_API_ver101.gha
+C:\Users\socce_ihosdso\Documents\GH_plugin_development_learning\05May\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.pdb
+C:\Users\socce_ihosdso\Documents\GH_plugin_development_learning\05May\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\ref\TSD_API_ver101.gha
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\05May\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\TSD_API_ver101.deps.json
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\05May\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\TSD_API_ver101.gha
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\05May\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\TSD_API_ver101.pdb
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\05May\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.csproj.AssemblyReference.cache
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\05May\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\05May\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.AssemblyInfoInputs.cache
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\05May\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.AssemblyInfo.cs
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\05May\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.csproj.CoreCompileInputs.cache
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\05May\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.gha
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\05May\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\refint\TSD_API_ver101.gha
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\05May\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.pdb
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\05May\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\ref\TSD_API_ver101.gha
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\05May\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.Properties.Resources.resources
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\05May\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.csproj.GenerateResource.cache
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\05May\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.csproj.ResolveComReference.cache
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\TSD_API_ver101.deps.json
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\TSD_API_ver101.gha
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\TSD_API_ver101.pdb
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\System.Windows.Forms.dll
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\Accessibility.dll
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\System.Deployment.dll
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\ja\System.Windows.Forms.resources.dll
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\ja\System.Deployment.resources.dll
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\ja\System.Runtime.Serialization.Formatters.Soap.resources.dll
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.csproj.AssemblyReference.cache
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.csproj.ResolveComReference.cache
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.Properties.Resources.resources
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.csproj.GenerateResource.cache
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.AssemblyInfoInputs.cache
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.AssemblyInfo.cs
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.csproj.CoreCompileInputs.cache
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_.F93EC71B.Up2Date
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.gha
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\refint\TSD_API_ver101.gha
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.pdb
+C:\Users\socce_ihosdso\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\ref\TSD_API_ver101.gha
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\TSD_API_ver101.deps.json
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\TSD_API_ver101.gha
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\TSD_API_ver101.pdb
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\System.Windows.Forms.dll
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\Accessibility.dll
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\System.Deployment.dll
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\ja\System.Windows.Forms.resources.dll
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\ja\System.Deployment.resources.dll
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\bin\Debug\net7.0\ja\System.Runtime.Serialization.Formatters.Soap.resources.dll
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.csproj.AssemblyReference.cache
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.csproj.ResolveComReference.cache
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.Properties.Resources.resources
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.csproj.GenerateResource.cache
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.AssemblyInfoInputs.cache
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.AssemblyInfo.cs
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.csproj.CoreCompileInputs.cache
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_.F93EC71B.Up2Date
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.gha
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\refint\TSD_API_ver101.gha
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\TSD_API_ver101.pdb
+C:\Users\FujiuT\OneDrive - AECOM\Digitalization\TSDGH_API_WIP\TSD_fundamental_functions\TSD_API_ver101\obj\Debug\net7.0\ref\TSD_API_ver101.gha

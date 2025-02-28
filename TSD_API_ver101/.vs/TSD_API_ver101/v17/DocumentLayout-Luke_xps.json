@@ -1,0 +1,551 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|c:\\users\\socce_ihosdso\\onedrive - aecom\\digitalization\\tsdgh_api_wip\\tsd_fundamental_functions\\tsd_api_ver101\\089_create_imemberattributeset\\create_imemberattributeset_process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:089_create_imemberattributeset\\create_imemberattributeset_process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\089_create_imemberattributeset\\create_imemberattritubeset_output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:089_create_imemberattributeset\\create_imemberattritubeset_output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\089_create_imemberattributeset\\create_imemberattributeset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:089_create_imemberattributeset\\create_imemberattributeset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\089_create_imemberattributeset - copy\\create_imemberattributeset_process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:089_create_imemberattributeset - copy\\create_imemberattributeset_process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\089_create_imemberattributeset - copy\\create_imemberattritubeset_output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:089_create_imemberattributeset - copy\\create_imemberattritubeset_output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\089_create_imemberattributeset - copy\\create_imemberattributeset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:089_create_imemberattributeset - copy\\create_imemberattributeset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\tsd_api_ver101.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:tsd_api_ver101.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\082_create_iconstructionpoint\\create_iconstructionpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:082_create_iconstructionpoint\\create_iconstructionpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\106_select_sectiongroup\\select_sectiongroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:106_select_sectiongroup\\select_sectiongroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\116_create_imember\\create_imember_process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:116_create_imember\\create_imember_process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\116_create_imember\\create_imember_output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:116_create_imember\\create_imember_output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\116_create_imember\\create_imember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:116_create_imember\\create_imember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\115_create_entity_general\\create_entity_general_process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:115_create_entity_general\\create_entity_general_process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\115_create_entity_general\\create_entity_general_output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:115_create_entity_general\\create_entity_general_output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\115_create_entity_general\\create_entity_general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:115_create_entity_general\\create_entity_general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\088_create_memberparams\\create_memberparams_process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:088_create_memberparams\\create_memberparams_process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\088_create_memberparams\\create_memberparams_output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:088_create_memberparams\\create_memberparams_output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\088_create_memberparams\\create_memberparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:088_create_memberparams\\create_memberparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\108_get_isectionfactory\\get_isectionfactory_process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:108_get_isectionfactory\\get_isectionfactory_process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\093_create_point3d\\create_point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:093_create_point3d\\create_point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\092_create_vector2d\\create_vector2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:092_create_vector2d\\create_vector2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\114_get_imaterials_from_beamattribute\\get_imaterials_from_beamattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:114_get_imaterials_from_beamattribute\\get_imaterials_from_beamattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\114_get_imaterials_from_beamattribute\\get_imaterials_from_beamattribute_output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:114_get_imaterials_from_beamattribute\\get_imaterials_from_beamattribute_output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\109_get_inonparametricsections_with3input\\get_inonparametricsections_with3input_output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:109_get_inonparametricsections_with3input\\get_inonparametricsections_with3input_output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\112_select_sectiontype\\select_sectiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:112_select_sectiontype\\select_sectiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\114_get_imaterials_from_beamattribute\\get_imaterials_from_beamattribute_process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:114_get_imaterials_from_beamattribute\\get_imaterials_from_beamattribute_process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\109_get_inonparametricsections_with3input\\get_inonparametricsections_with3input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:109_get_inonparametricsections_with3input\\get_inonparametricsections_with3input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\110_explode_inonparametricsection\\explode_inonparametricsection_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:110_explode_inonparametricsection\\explode_inonparametricsection_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\111_select_country\\select_country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:111_select_country\\select_country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\113_select_systemtype\\select_systemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:113_select_systemtype\\select_systemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\109_get_inonparametricsections_with3input\\get_inonparametricsections_with3input_process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:109_get_inonparametricsections_with3input\\get_inonparametricsections_with3input_process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\108_get_isectionfactory\\get_isectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:108_get_isectionfactory\\get_isectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\050_create_iattributedefinition\\create_iattributedefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A7DEA-E1A6-4391-B0F3-EAD98566EFF2}|TSD_API_ver101.csproj|solutionrelative:050_create_iattributedefinition\\create_iattributedefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create_IAttributeDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\050_Create_IAttributeDefinition\\Create_IAttributeDefinition.cs",
+              "RelativeDocumentMoniker": "050_Create_IAttributeDefinition\\Create_IAttributeDefinition.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\050_Create_IAttributeDefinition\\Create_IAttributeDefinition.cs",
+              "RelativeToolTip": "050_Create_IAttributeDefinition\\Create_IAttributeDefinition.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAgwJ8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:34:36.47Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Get_ISectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\108_Get_ISectionFactory\\Get_ISectionFactory.cs",
+              "RelativeDocumentMoniker": "108_Get_ISectionFactory\\Get_ISectionFactory.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\108_Get_ISectionFactory\\Get_ISectionFactory.cs",
+              "RelativeToolTip": "108_Get_ISectionFactory\\Get_ISectionFactory.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwEAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:24:00.346Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create_IMemberAttributeSet_process.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\089_Create_IMemberAttributeSet\\Create_IMemberAttributeSet_process.cs",
+              "RelativeDocumentMoniker": "089_Create_IMemberAttributeSet\\Create_IMemberAttributeSet_process.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\089_Create_IMemberAttributeSet\\Create_IMemberAttributeSet_process.cs",
+              "RelativeToolTip": "089_Create_IMemberAttributeSet\\Create_IMemberAttributeSet_process.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAFIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:22:53.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create_IMemberAttritubeSet_output.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\089_Create_IMemberAttributeSet\\Create_IMemberAttritubeSet_output.cs",
+              "RelativeDocumentMoniker": "089_Create_IMemberAttributeSet\\Create_IMemberAttritubeSet_output.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\089_Create_IMemberAttributeSet\\Create_IMemberAttritubeSet_output.cs",
+              "RelativeToolTip": "089_Create_IMemberAttributeSet\\Create_IMemberAttritubeSet_output.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:22:59.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create_IMemberAttributeSet.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\089_Create_IMemberAttributeSet\\Create_IMemberAttributeSet.cs",
+              "RelativeDocumentMoniker": "089_Create_IMemberAttributeSet\\Create_IMemberAttributeSet.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\089_Create_IMemberAttributeSet\\Create_IMemberAttributeSet.cs",
+              "RelativeToolTip": "089_Create_IMemberAttributeSet\\Create_IMemberAttributeSet.cs",
+              "ViewState": "AQIAAH8BAAAAAAAAAAAkwJkBAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:13:51.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create_IMemberAttributeSet_process.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\089_Create_IMemberAttributeSet - Copy\\Create_IMemberAttributeSet_process.cs",
+              "RelativeDocumentMoniker": "089_Create_IMemberAttributeSet - Copy\\Create_IMemberAttributeSet_process.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\089_Create_IMemberAttributeSet - Copy\\Create_IMemberAttributeSet_process.cs",
+              "RelativeToolTip": "089_Create_IMemberAttributeSet - Copy\\Create_IMemberAttributeSet_process.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwC0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:44:36.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create_IMemberAttritubeSet_output.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\089_Create_IMemberAttributeSet - Copy\\Create_IMemberAttritubeSet_output.cs",
+              "RelativeDocumentMoniker": "089_Create_IMemberAttributeSet - Copy\\Create_IMemberAttritubeSet_output.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\089_Create_IMemberAttributeSet - Copy\\Create_IMemberAttritubeSet_output.cs",
+              "RelativeToolTip": "089_Create_IMemberAttributeSet - Copy\\Create_IMemberAttritubeSet_output.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBgAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:44:42.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create_IMemberAttributeSet.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\089_Create_IMemberAttributeSet - Copy\\Create_IMemberAttributeSet.cs",
+              "RelativeDocumentMoniker": "089_Create_IMemberAttributeSet - Copy\\Create_IMemberAttributeSet.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\089_Create_IMemberAttributeSet - Copy\\Create_IMemberAttributeSet.cs",
+              "RelativeToolTip": "089_Create_IMemberAttributeSet - Copy\\Create_IMemberAttributeSet.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwCwAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:44:31.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TSD_API_ver101",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\TSD_API_ver101.csproj",
+              "RelativeDocumentMoniker": "TSD_API_ver101.csproj",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\TSD_API_ver101.csproj",
+              "RelativeToolTip": "TSD_API_ver101.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T15:45:49.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create_IConstructionPoint.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\082_Create_IConstructionPoint\\Create_IConstructionPoint.cs",
+              "RelativeDocumentMoniker": "082_Create_IConstructionPoint\\Create_IConstructionPoint.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\082_Create_IConstructionPoint\\Create_IConstructionPoint.cs",
+              "RelativeToolTip": "082_Create_IConstructionPoint\\Create_IConstructionPoint.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAIAwwG4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T15:45:36.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Select_SectionGroup.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\106_Select_SectionGroup\\Select_SectionGroup.cs",
+              "RelativeDocumentMoniker": "106_Select_SectionGroup\\Select_SectionGroup.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\106_Select_SectionGroup\\Select_SectionGroup.cs",
+              "RelativeToolTip": "106_Select_SectionGroup\\Select_SectionGroup.cs",
+              "ViewState": "AQIAAG4EAAAAAAAAAAAmwHwEAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:16:24.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create_IMember_process.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\116_Create_IMember\\Create_IMember_process.cs",
+              "RelativeDocumentMoniker": "116_Create_IMember\\Create_IMember_process.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\116_Create_IMember\\Create_IMember_process.cs",
+              "RelativeToolTip": "116_Create_IMember\\Create_IMember_process.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T13:12:37.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create_IMember_output.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\116_Create_IMember\\Create_IMember_output.cs",
+              "RelativeDocumentMoniker": "116_Create_IMember\\Create_IMember_output.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\116_Create_IMember\\Create_IMember_output.cs",
+              "RelativeToolTip": "116_Create_IMember\\Create_IMember_output.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T13:12:33.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create_IMember.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\116_Create_IMember\\Create_IMember.cs",
+              "RelativeDocumentMoniker": "116_Create_IMember\\Create_IMember.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\116_Create_IMember\\Create_IMember.cs",
+              "RelativeToolTip": "116_Create_IMember\\Create_IMember.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAgwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T13:12:07.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create_Entity_General_process.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\115_Create_Entity_General\\Create_Entity_General_process.cs",
+              "RelativeDocumentMoniker": "115_Create_Entity_General\\Create_Entity_General_process.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\115_Create_Entity_General\\Create_Entity_General_process.cs",
+              "RelativeToolTip": "115_Create_Entity_General\\Create_Entity_General_process.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:30:38.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create_Entity_General_output.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\115_Create_Entity_General\\Create_Entity_General_output.cs",
+              "RelativeDocumentMoniker": "115_Create_Entity_General\\Create_Entity_General_output.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\115_Create_Entity_General\\Create_Entity_General_output.cs",
+              "RelativeToolTip": "115_Create_Entity_General\\Create_Entity_General_output.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:30:32.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create_Entity_General.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\115_Create_Entity_General\\Create_Entity_General.cs",
+              "RelativeDocumentMoniker": "115_Create_Entity_General\\Create_Entity_General.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\115_Create_Entity_General\\Create_Entity_General.cs",
+              "RelativeToolTip": "115_Create_Entity_General\\Create_Entity_General.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAA7wJ4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:30:18.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Get_IMaterials_from_BeamAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\114_Get_IMaterials_from_BeamAttribute\\Get_IMaterials_from_BeamAttribute.cs",
+              "RelativeDocumentMoniker": "114_Get_IMaterials_from_BeamAttribute\\Get_IMaterials_from_BeamAttribute.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\114_Get_IMaterials_from_BeamAttribute\\Get_IMaterials_from_BeamAttribute.cs",
+              "RelativeToolTip": "114_Get_IMaterials_from_BeamAttribute\\Get_IMaterials_from_BeamAttribute.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAswEUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:48:00.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Select_SectionType.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\112_Select_SectionType\\Select_SectionType.cs",
+              "RelativeDocumentMoniker": "112_Select_SectionType\\Select_SectionType.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\112_Select_SectionType\\Select_SectionType.cs",
+              "RelativeToolTip": "112_Select_SectionType\\Select_SectionType.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAAAPkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:35:23.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Get_IMaterials_from_BeamAttribute_output.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\114_Get_IMaterials_from_BeamAttribute\\Get_IMaterials_from_BeamAttribute_output.cs",
+              "RelativeDocumentMoniker": "114_Get_IMaterials_from_BeamAttribute\\Get_IMaterials_from_BeamAttribute_output.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\114_Get_IMaterials_from_BeamAttribute\\Get_IMaterials_from_BeamAttribute_output.cs",
+              "RelativeToolTip": "114_Get_IMaterials_from_BeamAttribute\\Get_IMaterials_from_BeamAttribute_output.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:50:22.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Get_IMaterials_from_BeamAttribute_process.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\114_Get_IMaterials_from_BeamAttribute\\Get_IMaterials_from_BeamAttribute_process.cs",
+              "RelativeDocumentMoniker": "114_Get_IMaterials_from_BeamAttribute\\Get_IMaterials_from_BeamAttribute_process.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\114_Get_IMaterials_from_BeamAttribute\\Get_IMaterials_from_BeamAttribute_process.cs",
+              "RelativeToolTip": "114_Get_IMaterials_from_BeamAttribute\\Get_IMaterials_from_BeamAttribute_process.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:50:18.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Get_INonParametricSections_with3input.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\109_Get_INonParametricSections_with3input\\Get_INonParametricSections_with3input.cs",
+              "RelativeDocumentMoniker": "109_Get_INonParametricSections_with3input\\Get_INonParametricSections_with3input.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\109_Get_INonParametricSections_with3input\\Get_INonParametricSections_with3input.cs",
+              "RelativeToolTip": "109_Get_INonParametricSections_with3input\\Get_INonParametricSections_with3input.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwEgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:37:46.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Explode_INonParametricSection_1.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\110_Explode_INonParametricSection\\Explode_INonParametricSection_1.cs",
+              "RelativeDocumentMoniker": "110_Explode_INonParametricSection\\Explode_INonParametricSection_1.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\110_Explode_INonParametricSection\\Explode_INonParametricSection_1.cs",
+              "RelativeToolTip": "110_Explode_INonParametricSection\\Explode_INonParametricSection_1.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAwwFMAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:59:06.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Select_Country.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\111_Select_Country\\Select_Country.cs",
+              "RelativeDocumentMoniker": "111_Select_Country\\Select_Country.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\111_Select_Country\\Select_Country.cs",
+              "RelativeToolTip": "111_Select_Country\\Select_Country.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAwwKEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:02:45.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Select_SystemType.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\113_Select_SystemType\\Select_SystemType.cs",
+              "RelativeDocumentMoniker": "113_Select_SystemType\\Select_SystemType.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\113_Select_SystemType\\Select_SystemType.cs",
+              "RelativeToolTip": "113_Select_SystemType\\Select_SystemType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:36:09.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Get_INonParametricSections_with3input_process.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\109_Get_INonParametricSections_with3input\\Get_INonParametricSections_with3input_process.cs",
+              "RelativeDocumentMoniker": "109_Get_INonParametricSections_with3input\\Get_INonParametricSections_with3input_process.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\109_Get_INonParametricSections_with3input\\Get_INonParametricSections_with3input_process.cs",
+              "RelativeToolTip": "109_Get_INonParametricSections_with3input\\Get_INonParametricSections_with3input_process.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:38:16.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Get_INonParametricSections_with3input_output.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\109_Get_INonParametricSections_with3input\\Get_INonParametricSections_with3input_output.cs",
+              "RelativeDocumentMoniker": "109_Get_INonParametricSections_with3input\\Get_INonParametricSections_with3input_output.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\109_Get_INonParametricSections_with3input\\Get_INonParametricSections_with3input_output.cs",
+              "RelativeToolTip": "109_Get_INonParametricSections_with3input\\Get_INonParametricSections_with3input_output.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:38:11.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Get_ISectionFactory_process.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\108_Get_ISectionFactory\\Get_ISectionFactory_process.cs",
+              "RelativeDocumentMoniker": "108_Get_ISectionFactory\\Get_ISectionFactory_process.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\108_Get_ISectionFactory\\Get_ISectionFactory_process.cs",
+              "RelativeToolTip": "108_Get_ISectionFactory\\Get_ISectionFactory_process.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:28:01.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create_Point3D.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\093_Create_Point3D\\Create_Point3D.cs",
+              "RelativeDocumentMoniker": "093_Create_Point3D\\Create_Point3D.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\093_Create_Point3D\\Create_Point3D.cs",
+              "RelativeToolTip": "093_Create_Point3D\\Create_Point3D.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAIAwwGoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:13:49.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create_MemberParams.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\088_Create_MemberParams\\Create_MemberParams.cs",
+              "RelativeDocumentMoniker": "088_Create_MemberParams\\Create_MemberParams.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\088_Create_MemberParams\\Create_MemberParams.cs",
+              "RelativeToolTip": "088_Create_MemberParams\\Create_MemberParams.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAEwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:21:17.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create_Vector2D.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\092_Create_Vector2D\\Create_Vector2D.cs",
+              "RelativeDocumentMoniker": "092_Create_Vector2D\\Create_Vector2D.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\092_Create_Vector2D\\Create_Vector2D.cs",
+              "RelativeToolTip": "092_Create_Vector2D\\Create_Vector2D.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAA5wDsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T13:51:44.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create_MemberParams_process.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\088_Create_MemberParams\\Create_MemberParams_process.cs",
+              "RelativeDocumentMoniker": "088_Create_MemberParams\\Create_MemberParams_process.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\088_Create_MemberParams\\Create_MemberParams_process.cs",
+              "RelativeToolTip": "088_Create_MemberParams\\Create_MemberParams_process.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA6wBIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:21:50.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create_MemberParams_output.cs",
+              "DocumentMoniker": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\088_Create_MemberParams\\Create_MemberParams_output.cs",
+              "RelativeDocumentMoniker": "088_Create_MemberParams\\Create_MemberParams_output.cs",
+              "ToolTip": "C:\\Users\\socce_ihosdso\\OneDrive - AECOM\\Digitalization\\TSDGH_API_WIP\\TSD_fundamental_functions\\TSD_API_ver101\\088_Create_MemberParams\\Create_MemberParams_output.cs",
+              "RelativeToolTip": "088_Create_MemberParams\\Create_MemberParams_output.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:21:45.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

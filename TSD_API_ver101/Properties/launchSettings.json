@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TSD_API_ver101": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Rhino 8\\System\\Rhino.exe",
+      "commandLineArgs": ""
+    }
+  }
+}
