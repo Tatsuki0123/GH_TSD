@@ -43,8 +43,6 @@ If you’re familiar with the **C# API documentation**, you’re already set—*
 
 ## 📚 Documentation & Support  
 - **Tekla API Documentation** – Since GH_TSD mirrors Tekla’s API, refer to the **official API docs** for in-depth details.  
-- **Issues & Feature Requests** – Found a bug or have a feature request? [Open an issue](https://github.com/YOUR_REPO/issues).  
-- **Contributions** – Want to improve GH_TSD? Check the [Contribution Guide](https://github.com/YOUR_REPO/CONTRIBUTING.md).  
 
 ---
 
@@ -66,7 +64,7 @@ Contributions are welcome! Drop Message on Linkedin: Tatsuki Fujiu
 ---
 
 ## 📜 License  
-This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/YOUR_REPO/LICENSE) file for details.  
+This project is licensed under the **MIT License**.
 
 ---
 
