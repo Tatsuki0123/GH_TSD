@@ -59,7 +59,7 @@ GH_TSD **fills this gap**, giving you **total control** over Tekla Structural De
 ---
 
 ## 🤝 Contributing  
-Contributions are welcome! Drop Message on Linkedin: Tatsuki Fujiu 
+Contributions are welcome! Drop Message on ![Linkedin](https://www.linkedin.com/in/tatsuki-fujiu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app): Tatsuki Fujiu 
 
 ---
 
