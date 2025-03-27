@@ -29,6 +29,8 @@ If you’re familiar with the **C# API documentation**, you’re already set—*
 2. DownLoad all files inside this folder.
 3. UnZip it and put all into Grasshopper Component Folder
 4. UnLock the all files (Right Click all files one by one and go Properties and unlock)
+5. Use NetFrameWork instead of Net7(Core) in Rhino Grasshopper. (If this plugins not appear, type "SetDotNetRuntime" in Rhino command and change it into NetFrameWork)
+    -> This is because TSD API only works on Dot Net Framework, not Dot Net Core
 
 ---
 
@@ -59,7 +61,7 @@ GH_TSD **fills this gap**, giving you **total control** over Tekla Structural De
 ---
 
 ## 🤝 Contributing  
-Contributions are welcome! Fork the repo, make improvements, and submit a pull request. See [Contributing Guidelines](https://github.com/YOUR_REPO/CONTRIBUTING.md) for details.  
+Contributions are welcome! Drop Message on Linkedin: Tatsuki Fujiu 
 
 ---
 
